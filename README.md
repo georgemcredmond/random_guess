@@ -1,2 +1,2 @@
 # random_guess
-Number guessing game application using standard Java programming.
+Blah blah Number guessing game application using standard Java programming.
